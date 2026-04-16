@@ -11,6 +11,9 @@ Personal homelab for self-hosting, networking experiments, and learning.
 | HP ProDesk 405 G4 Mini           | node01 | Ryzen 5 PRO 2400GE | 16GB |
 | Dell OptiPlex 3070               | node02 | i5-9500T           | 16GB |
 
+![Rack01](assets/R4CK_01.jpg)
+![Rack02](assets/R4CK_02.jpg)
+
 ## Network
 
 - Router: TurrisOS 9.0.4
