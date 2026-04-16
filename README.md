@@ -6,7 +6,7 @@ Personal homelab for self-hosting, networking experiments, and learning.
 
 | 		Device	       	   |  Role  |        CPU         | RAM  |
 |----------------------------------|--------|--------------------|------|
-| Turris 1.x                       | Router | Freescale P2020    |   -  |
+| Turris 1.x                       | Router | Freescale P2020    |  2GB |
 | Cisco Catalyst WS-C3560CX-12PC-S | Switch |          -         |   -  |
 | HP ProDesk 405 G4 Mini           | node01 | Ryzen 5 PRO 2400GE | 16GB |
 | Dell OptiPlex 3070               | node02 | i5-9500T           | 16GB |
