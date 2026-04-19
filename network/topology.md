@@ -10,10 +10,10 @@ Home lab network with VLAN segmentation, managed via Cisco C3560CX switch and Tu
 
 | VLAN | Name       | Subnet           | Purpose                        |
 |------|------------|------------------|-------------------------------|
-| 10   | servers    | 192.168.10.0/24  | Production servers (node01, node02) |
-| 20   | lan        | 192.168.20.0/24  | Home LAN devices              |
-| 30   | iot        | 192.168.30.0/24  | IoT devices                   |
-| 99   | mgmt       | 192.168.99.0/24  | Network management            |
+| 10   | Servers    | 192.168.10.0/24  | Production servers (node01, node02) |
+| 20   | Wifi-Clients        | 192.168.20.0/24  | Home LAN devices              |
+| 30   | IoT        | 192.168.30.0/24  | IoT devices                   |
+| 99   | Management       | 192.168.99.0/24  | Network management            |
 
 ---
 
